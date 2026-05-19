@@ -9,7 +9,7 @@ const equipoData = [
         matricula: "2022150480067",
         carrera: "Ingeniería en Sistemas Computacionales",
         correo: "2022150480067@tesjo.edu.mx",
-        foto: "/assets/pablo.png",
+        foto: "https://github.com/C4rlos2045/programacion-web-examen/blob/main/src/assets/pablo.png?raw=true",
         rol: "Auditor",
         descripcion: "Especialista en auditoría de sistemas con experiencia en evaluación de procesos y cumplimiento normativo. Responsable de garantizar la calidad y seguridad del proyecto."
     },
@@ -19,7 +19,7 @@ const equipoData = [
         matricula: "2022150480327",
         carrera: "Ingeniería en Sistemas Computacionales",
         correo: "2022150480327@tesjo.edu.mx",
-        foto: "/assets/luz.jpeg",
+        foto: "https://github.com/C4rlos2045/programacion-web-examen/blob/main/src/assets/luz.jpeg?raw=true",
         rol: "Administradora de Base de Datos",
         descripcion: "Experta en diseño, administración y optimización de bases de datos. Encargada de la arquitectura y mantenimiento de la infraestructura de datos del sistema."
     },
@@ -29,7 +29,7 @@ const equipoData = [
         matricula: "2022150480905",
         carrera: "Ingeniería en Sistemas Computacionales",
         correo: "2022150480905@tesjo.edu.mx",
-        foto: "/assets/sindy.png",
+        foto: "https://github.com/C4rlos2045/programacion-web-examen/blob/main/src/assets/sindy.png?raw=true",
         rol: "Arquitecta de Software",
         descripcion: "Profesional en diseño de arquitecturas de software escalables. Responsable de la planificación y estructura técnica del proyecto."
     },
@@ -39,7 +39,7 @@ const equipoData = [
         matricula: "2022150480011",
         carrera: "Ingeniería en Sistemas Computacionales",
         correo: "2022150480011@tesjo.edu.mx",
-        foto: "/assets/juan.jpeg",
+        foto: "https://github.com/C4rlos2045/programacion-web-examen/blob/main/src/assets/juan.jpeg?raw=true",
         rol: "Desarrollador Full Stack",
         descripcion: "Desarrollador versátil con experiencia en frontend y backend. Encargado del desarrollo de funcionalidades core del sistema de gestión de gastos."
     }
